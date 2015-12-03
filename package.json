@@ -23,6 +23,6 @@
   "homepage": "https://github.com/neilgupta/pandapush-react",
   "dependencies": {
     "faye": "1.1.1",
-    "react": "^0.13.3"
+    "react": "0.13.x || 0.14.x"
   }
 }
